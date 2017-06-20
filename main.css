@@ -1,0 +1,46 @@
+body{
+  background: #F5F8FA;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+#wrapper{
+  text-align: center;
+  margin: 200px auto;
+  width: 550px;
+}
+
+#drop-area{
+  width: 500px;
+  height: 200px;
+  background: white;
+  border: 2px solid lightskyblue;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.drop-text{
+  position: relative;
+  top: 83px;
+  left: 250px;
+  transform: translate(-50%, -50%);
+  color: cadetblue;
+  font-size: 20px;
+}
+
+img{
+  width: 180px;
+  position: relative;
+  height: 180px;
+}
+
+.output{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 5px;
+}
+
+span{
+  display: block;
+}
