@@ -1,1 +1,1 @@
-# Simple-Drag-And-Drop-Upload
+# A very simple Drag & Drop Upload with AJAX & PHP!
